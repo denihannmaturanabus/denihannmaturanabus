@@ -10,7 +10,7 @@ Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC 🇨🇱, espec
 
 ---
 
-### 🛠 Mi Stack Tecnológico
+###  Mi Stack Tecnológico
 
 **Lenguajes & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
