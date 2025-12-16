@@ -35,23 +35,3 @@ Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC 🇨🇱, espec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bizagi](https://img.shields.io/badge/Bizagi-Análisis-orange?style=for-the-badge)
 
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-<a href="https://github.com/denihannmaturanabus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denihannmaturanabus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihannmaturanabus&layout=compact&langs_count=7&theme=tokyonight&locale=es"/>
-</a>
-</div>
-
----
-<div align="center">
-  <a href="https://www.linkedin.com/in/denihann-maturana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:denihannmaturana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
