@@ -35,19 +35,3 @@ Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC, especializado 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bizagi](https://img.shields.io/badge/Bizagi-Análisis-orange?style=for-the-badge)
 
----
-
-### Mis Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/denihannmaturanabus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denihannmaturanabus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihannmaturanabus&layout=compact&theme=tokyonight"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=denihannmaturanabus&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
