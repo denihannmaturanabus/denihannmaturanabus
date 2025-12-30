@@ -1,16 +1,16 @@
-### ¡Hola, soy Denihann! 
+### ¡Hola, soy Denihann!
 
 Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC, especializado en el desarrollo de productos digitales escalables y soluciones SaaS. Actualmente estoy fundando **WM Labs** y construyendo **Plap**.
 
--  Actualmente trabajando en **Plap (SaaS de análisis de oratoria con IA)**
--  Co-Founder en **WM Labs SpA**
--  En proceso de reubicación a **Córdoba, Argentina**
--  Aprendiendo sobre **Arquitectura Cloud Avanzada & DevOps**
--  Dato curioso: Llevo trabajando con responsabilidad ininterrumpida desde los 18 años.
+- Actualmente trabajando en **Plap (SaaS de análisis de oratoria con IA)**
+- Co-Founder en **WM Labs SpA**
+- En proceso de reubicación a **Córdoba, Argentina**
+- Aprendiendo sobre **Arquitectura Cloud Avanzada & DevOps**
+- Dato curioso: Llevo trabajando con responsabilidad ininterrumpida desde los 18 años.
 
 ---
 
-###  Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 **Lenguajes & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,3 +35,19 @@ Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC, especializado 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bizagi](https://img.shields.io/badge/Bizagi-Análisis-orange?style=for-the-badge)
 
+---
+
+### Mis Estadísticas de GitHub
+
+<div align="center">
+
+<a href="https://github.com/denihannmaturanabus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denihannmaturanabus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihannmaturanabus&layout=compact&theme=tokyonight"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=denihannmaturanabus&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
