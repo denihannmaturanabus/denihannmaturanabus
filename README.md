@@ -1,8 +1,8 @@
 ### ¡Hola, soy Denihann!
 
-Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC, especializado en el desarrollo de productos digitales escalables y soluciones SaaS. Actualmente estoy fundando **WM Labs** y construyendo **Plap**.
+Soy **Ingeniero en Informática Full Stack** egresado de Duoc UC, especializado en el desarrollo de productos digitales escalables y soluciones SaaS. Actualmente estoy fundando **WM Labs** y construyendo **VetCare**.
 
-- Actualmente trabajando en **Plap (SaaS de análisis de oratoria con IA)**
+- Actualmente trabajando en **VetCare (SaaS de Gestión Clínica)**
 - Co-Founder en **WM Labs SpA**
 - En proceso de reubicación a **Córdoba, Argentina**
 - Aprendiendo sobre **Arquitectura Cloud Avanzada & DevOps**
